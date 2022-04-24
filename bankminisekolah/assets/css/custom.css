@@ -1,0 +1,180 @@
+.container-utama {
+    background-color: rgb(235, 246, 252);
+}
+
+.navbar .navbar-brand {
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.navbar .container img.nav-brand {
+    height: 50px;
+    margin-right: 5px;
+}
+
+.navbar .nav-item {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.navbar .nav-item .nav-link {
+    font-weight: bolder;
+    font-size: 14px;
+    text-transform: uppercase !important;
+}
+
+.navbar .nav-item .dropdown-item {
+    font-size: 14px;
+    text-transform: uppercase !important;
+}
+
+.navbar .nav-item .nav-link:hover {
+    color: red;
+}
+
+nav.navbar {
+    box-shadow: 2px 2px 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+.carousel-section .carousel-item img {
+    max-height: 400px;
+}
+
+.carousel-section {
+    box-shadow: 2px 2px 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+
+/* content-section */
+
+.content-section {
+    margin-top: 20px;
+}
+
+.content-section .card {
+    box-shadow: 2px 2px 4px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+.content-section .card .img-left {
+    border-radius: 5px;
+}
+
+.content-section .yt-video {
+    text-align: center;
+}
+
+
+/* akhir content-section */
+
+
+/* Sub Judul */
+
+.sub-judul {
+    background-image: linear-gradient( rgb(35, 111, 211) 85%, white);
+    padding: 8px;
+    box-shadow: 2px 2px 4px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+    color: white;
+}
+
+
+/* Akhir Sub Judul */
+
+
+/* section footer */
+
+section.section-footer {
+    background-color: rgb(78, 104, 250);
+    box-shadow: 2px 2px 4px 4px rgba(0, 0, 0, 0.2);
+    font-size: small !important;
+}
+
+section.section-footer .footer-info {
+    color: white;
+    font-style: oblique;
+}
+
+section.section-footer .footer-info .row .col-footer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+section.section-footer .footer-info .row .col-footer .sub-judul-footer {
+    font-weight: bold;
+}
+
+section.copyright {
+    padding: 8px;
+    background-image: linear-gradient( white, rgb(35, 111, 211) 10%);
+}
+
+section.copyright .footer-copyright span {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+section.section-footer .caption-footer {
+    font-weight: bold;
+}
+
+section.section-footer hr {
+    margin-top: 2px;
+    margin-bottom: 5px;
+    background-color: #fff;
+    height: 2px;
+}
+
+section.section-footer span.tags-footer {
+    display: inline-block;
+    border: 1px solid white;
+    padding: 5px 10px 5px 10px;
+}
+
+section.section-footer a.link-tags {
+    text-decoration: none;
+    color: white;
+}
+
+section.section-footer a.link-tags:hover {
+    color: rgb(177, 172, 172);
+}
+
+section.section-footer a.link-footer-sosmed {
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+section.section-footer span.merah {
+    background-color: rgb(253, 7, 7);
+}
+
+section.section-footer span.kuning {
+    background-color: rgb(238, 185, 12);
+}
+
+section.section-footer span.biru-muda {
+    background-color: rgb(15, 193, 247);
+}
+
+section.section-footer span.biru {
+    background-color: rgb(65, 23, 218);
+}
+
+section.section-footer span.footer-sosmed {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+}
+
+section.section-footer span.footer-sosmed i.fa {
+    font-size: 25px;
+}
+
+
+/* akhir section footer */
